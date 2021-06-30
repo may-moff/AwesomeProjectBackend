@@ -16,7 +16,7 @@ const create = async (req, res) => {
     });
   }
 };
-
+// podfjgposfgjpsofjgpsfogj
 const show = async (req, res) => {
   try {
     const products = await ProductModel.find();
